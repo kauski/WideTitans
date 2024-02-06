@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shop
+  - Shopkeeper
+  - Shopscreen
+  - Selection
+  - Selection2
+  - Arrow
+  - Ship
+  - Shopupdate
+  - ScenechangeA
+  - fishrail
+  - surface
+  - Continue
+  - Checkpoint
+  - Checker
+  - Monster-mg1
+  - Oceanlevel-mg1
+  - seafloor
+  - Tips
+  - End
+  - Tip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - TXT
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - fishrail
+  - 
+  - Deathscreen
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
